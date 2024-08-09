@@ -1,0 +1,23 @@
+country = "GBR"
+product = "Liso-cel"
+accountName = "Liverpool Hospital"
+siteAddress = "123 Liverpool"
+siteCity = "Liverpool"
+siteZip = "12601"
+
+RRPhone = "111222333"
+RRCredentials = "Physician"
+RRFax = "444555666"
+RRFirstName = "Alex"
+RRLastName = "Ferguson"
+
+FMRFirstName = "Mark"
+FMRLastName = "Richards"
+FMRPhone = "1234567890"
+FMRTitle = "MSL"
+
+KAMTitle = "COM"
+KAMFirstName = "Kyle"
+KAMLastName = "Rogers"
+KAMPhone = "1234567890"
+KAMEmail = "fakeKAM@bms.com"

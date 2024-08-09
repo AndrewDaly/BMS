@@ -1,0 +1,23 @@
+country = "Austria"
+product = "Ide-cel;Liso-cel"
+accountName = "Graz Hospital"
+siteAddress = "123 Graz"
+siteCity = "Graz"
+siteZip = "65754"
+
+RRPhone = "111222333"
+RRCredentials = "Dr. med."
+RRFax = "444555666"
+RRFirstName = "Frank"
+RRLastName = "Klaus"
+
+FMRFirstName = "Gen"
+FMRLastName = "Freud"
+FMRPhone = "1234567890"
+FMRTitle = "MR"
+
+KAMTitle = "KAM"
+KAMFirstName = "Becky"
+KAMLastName = "Kovacks"
+KAMPhone = "1234567890"
+KAMEmail = "fakeKAM@bms.com"

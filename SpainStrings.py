@@ -1,0 +1,26 @@
+country = "ESP"
+product = "Ide-cel"
+accountName = "Lugo Hospital"
+siteAddress = "Carrer de Ferran 56"
+siteCity = "Lugo"
+siteZip = "3010"
+siteProvince = ""
+
+RRPhone = "111222333"
+RRCredentials = "Dr. med."
+RRFax = "444555666"
+RRFirstName = "Roxanne"
+RRLastName = "Santino"
+
+FMRFirstName = "Triana"
+FMRLastName = "Gonzalez"
+FMRPhone = "777888999"
+FMRTitle = "MSL"
+
+KAMTitle = "SOM"
+KAMFirstName = "Becky"
+KAMLastName = "Lopez"
+KAMPhone = "987654321"
+KAMTitle = "RAM"
+KAMEmail = "fakeRAM@bms.com"
+

@@ -1,0 +1,25 @@
+country = "Switzerland"
+product = "Ide-cel;Liso-cel"
+accountName = "Zurich Hospital"
+siteAddress = "Freiburgstrasse 18"
+siteCity = "Bern"
+siteZip = "3010"
+
+RRPhone = "111222333"
+RRCredentials = "Dr. med."
+RRFax = "444555666"
+RRFirstName = "Noah"
+RRLastName = "Muller"
+
+
+FMRFirstName = "Gen"
+FMRLastName = "Freud"
+FMRPhone = "777888999"
+FMRTitle = "MAM"
+
+KAMTitle = "SOM"
+KAMFirstName = "Becky"
+KAMLastName = "Kovacks"
+KAMPhone = "987654321"
+KAMTitle = "SOM"
+KAMEmail = "fakeSOM@bms.com"
